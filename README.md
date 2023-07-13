@@ -20,5 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raaj-S-2005&icon=2&color=0)](https://visitcount.itsvg.in)
-[![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
